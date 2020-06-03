@@ -17,11 +17,11 @@ Show the financial value of your models.
 # EDA
 ---
 
-![](https://github.com/Maraandzman/Randy_Portfolio/blob/master/images/SuppliesCorr.png)
+![](/images/SuppliesCorr.png)
 
 # Model Results
 ---
-![](https://github.com/Maraandzman/Randy_Portfolio/blob/master/images/confusion_matrix.png)
+![](/images/confusion_matrix.png)
 
 # [PROJECT 2 - Telco_Churn_Predictor](https://github.com/Maraandzman/Telco_Churn_Predictor)
 ---
@@ -40,20 +40,20 @@ predict status with relative good accuracy.
 # EDA
 ---
 
-![](https://github.com/Maraandzman/Randy_Portfolio/blob/master/images/Days_used_mean.png)
+![](/images/Days_used_mean.png)
 
-![](https://github.com/Maraandzman/Randy_Portfolio/blob/master/images/Customer_Attrition_Data.png)
+![](/images/Customer_Attrition_Data.png)
 
 # Model Results
 ---
 
-![](https://github.com/Maraandzman/Randy_Portfolio/blob/master/images/Classification_Report.PNG)
+![](/images/Classification_Report.PNG)
 
-![](https://github.com/Maraandzman/Randy_Portfolio/blob/master/images/Model_performance.png)
+![](/images/Model_performance.png)
 
-![](https://github.com/Maraandzman/Randy_Portfolio/blob/master/images/Recharge_recency_Attrition_Group.PNG)
+![](/images/Recharge_recency_Attrition_Group.PNG)
 
-![](https://github.com/Maraandzman/Randy_Portfolio/blob/master/images/Recharge_recency_days_Hist.png)
+![](/images/Recharge_recency_days_Hist.png)
 
 # [PROJECT 3 - Customer Segmentation](https://github.com/Maraandzman/Customer_Segmentation)
 ---
@@ -73,19 +73,19 @@ We are provided with recharge, date , location and monetary value spent for each
 # EDA
 ---
 
-![](https://github.com/Maraandzman/Randy_Portfolio/blob/master/images/Recency_hist.png)
+![](/images/Recency_hist.png)
 
-![](https://github.com/Maraandzman/Randy_Portfolio/blob/master/images/Revenue_hist.png)
+![](/images/Revenue_hist.png)
 
-![](https://github.com/Maraandzman/Randy_Portfolio/blob/master/images/Frequency_hist.png)
+![](/images/Frequency_hist.png)
 
 # Model Results
 ---
 
-![](https://github.com/Maraandzman/Randy_Portfolio/blob/master/images/N_Clusters.png)
+![](/images/N_Clusters.png)
 
-![](https://github.com/Maraandzman/Randy_Portfolio/blob/master/images/Revenue_Frequency_Scatter.png)
+![](/images/Revenue_Frequency_Scatter.png)
 
-![](https://github.com/Maraandzman/Randy_Portfolio/blob/master/images/Revenue_Recency_Scatter.png)
+![](/images/Revenue_Recency_Scatter.png)
 
-![](https://github.com/Maraandzman/Randy_Portfolio/blob/master/images/Frequency_Recency_Scatter.png)
+![](/images/Frequency_Recency_Scatter.png)

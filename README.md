@@ -1,8 +1,7 @@
 # Randy_Portfolio
 Brief Portfolio Overview
 
-# PROJECT 1 
-#OFFICE SUPPLIER - LEADS FEEDBACK
+# [PROJECT 1 - OFFICE SUPPLIER - LEADS FEEDBACK](https://github.com/Maraandzman/Office-Supplies-Telemarketing-Campaign)
 ---
 
 **Context**: 

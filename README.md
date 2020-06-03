@@ -25,5 +25,5 @@ The data provided of 100 000 distinct customers, and their respective usage beha
 
 **Project Objective:**
 
-The target feature is a multi-class. "ACTIVE", "CHURNED", "DORMANT", "INACTIVE".
-predict is status with relative good accuracy. 
+The target feature is a multi-class containing labels: "ACTIVE", "CHURNED", "DORMANT", "INACTIVE".
+predict status with relative good accuracy. 
